@@ -1,0 +1,44 @@
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  display: flex;
+  background: #0f0f23;
+  color: white;
+}
+.sidebar {
+  width: 240px;
+  background: #111;
+  padding: 20px;
+  height: 100vh;
+  position: fixed;
+}
+.perfil {
+  width: 100px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 10px;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav li {
+  margin: 15px 0;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+.redes a img {
+  width: 24px;
+  margin: 10px 5px;
+}
+.contenido {
+  margin-left: 260px;
+  padding: 40px;
+}
+.animado {
+  color: #1abc9c;
+  font-weight: bold;
+}
