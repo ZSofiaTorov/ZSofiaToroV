@@ -1,12 +1,13 @@
 # Hola! Soy Sofia Toro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adam-pithewan/](https://www.linkedin.com/in/so
+fia-toro-724155208/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sofiaaaatoro_?igsh=MWcyc3A3c3dtaGl5ZA==" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
 </p>
-
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 Un poco sobre mi:  
 - 🏦 Estudiante de Desarrollo de Sofwtare 
@@ -36,11 +37,12 @@
 
 </p>
 
-<p align= "center">
-      
-![Lenguajes más usados](https://quickchart.io/chart?c={type:'bar',data:{labels:['ASP.NET','HTML','CSS','PHP','DevOps'],datasets:[{label:'Porcentaje de uso',data:[20,25,25,10,20],backgroundColor:['%230078D7','%23E34F26','%231572B6','%23777BB4','%230078D7']}]},options:{scales:{y:{beginAtZero:true,max:100}}}})
+<h2 align="center">Lenguajes más usados</h2>
 
+<p align="center">
+  <img src="lenguajes-mas-usados.png" alt="Lenguajes más usados" width="400px">
 </p>
+
 <p align= "center">
 Última edición: 13-05-2024
 </p>
