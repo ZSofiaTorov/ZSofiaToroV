@@ -26,11 +26,20 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-Servidor%20Local-FB7A24?logo=xampp&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-Base%20de%20Datos-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-Framework-0078D7?logo=dot-net&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-Agile-6DB33F?logo=agile)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue)
+![SQL Server](https://img.shields.io/badge/SQL_Server-2019-CC2927?logo=microsoft-sql-server&logoColor=white)
+
+
+
+
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+      
+![Lenguajes más usados](https://quickchart.io/chart?c={type:'bar',data:{labels:['ASP.NET','HTML','CSS','PHP','DevOps'],datasets:[{label:'Porcentaje de uso',data:[20,25,25,10,20],backgroundColor:['%230078D7','%23E34F26','%231572B6','%23777BB4','%230078D7']}]},options:{scales:{y:{beginAtZero:true,max:100}}}})
+
 </p>
 <p align= "center">
 Última edición: 13-05-2024
