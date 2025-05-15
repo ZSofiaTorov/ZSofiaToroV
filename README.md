@@ -11,77 +11,21 @@
 ### 🤵 Un poco sobre mi:  
 - 🏦 Estudiante de Desarrollo de Sofwtare 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 Casualmente uso , ```Asp .Net```, ```Html```,``` Css```, ```JavaScript```,```DevOps```,
-- 🌱 Estoy aprendiendo php, Laravel
+- ⌛ Aprovecho mis momentos libres para seguir aprendiendo
+- 🌱 Aprendiendo nuevas tecnologias
+- 💼En busqueda de Oportunidad de Empleo!
+- 📫 Contacto: torokarensofia.21@gmail.com
 
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</p>
+🛠️ My Favorite Tools
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#E14E1D" rx="60"/><path fill="#fff" d="M48 38L56.6098 134.593H167.32L163.605 176.023L127.959 185.661L92.38 176.037L90.0012 149.435H57.9389L62.5236 200.716L127.951 218.888L193.461 200.716L202.244 102.655H85.8241L82.901 69.9448H205.041H205.139L208 38H48Z"/><path fill="#EBEBEB" d="M128 38H48L56.6098 134.593H128V102.655H85.8241L82.901 69.9448H128V38Z"/><path fill="#EBEBEB" d="M128 185.647L127.959 185.661L92.38 176.037L90.0012 149.435H57.9388L62.5236 200.716L127.951 218.888L128 218.874V185.647Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#E14E1D" rx="60"/><path fill="#fff" d="M48 38L56.6098 134.593H167.32L163.605 176.023L127.959 185.661L92.38 176.037L90.0012 149.435H57.9389L62.5236 200.716L127.951 218.888L193.461 200.716L202.244 102.655H85.8241L82.901 69.9448H205.041H205.139L208 38H48Z"/><path fill="#EBEBEB" d="M128 38H48L56.6098 134.593H128V102.655H85.8241L82.901 69.9448H128V38Z"/><path fill="#EBEBEB" d="M128 185.647L127.959 185.661L92.38 176.037L90.0012 149.435H57.9388L62.5236 200.716L127.951 218.888L128 218.874V185.647Z"/></svg>
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#F0DB4F"/>
+<path d="M67.3117 213.932L86.9027 202.076C90.6821 208.777 94.1202 214.447 102.367 214.447C110.272 214.447 115.256 211.355 115.256 199.327V117.529H139.314V199.667C139.314 224.584 124.708 235.926 103.398 235.926C84.1533 235.926 72.9819 225.959 67.3113 213.93" fill="#323330"/>
+<path d="M152.381 211.354L171.969 200.013C177.126 208.434 183.828 214.62 195.684 214.62C205.653 214.62 212.009 209.636 212.009 202.762C212.009 194.514 205.479 191.592 194.481 186.782L188.468 184.203C171.111 176.815 159.597 167.535 159.597 147.945C159.597 129.901 173.345 116.153 194.826 116.153C210.12 116.153 221.118 121.481 229.022 135.4L210.291 147.429C206.166 140.04 201.7 137.119 194.826 137.119C187.78 137.119 183.312 141.587 183.312 147.429C183.312 154.646 187.78 157.568 198.09 162.037L204.104 164.614C224.553 173.379 236.067 182.313 236.067 202.418C236.067 224.072 219.055 235.928 196.2 235.928C173.861 235.928 159.426 225.274 152.381 211.354" fill="#323330"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#F4F2ED" rx="60"/><path fill="url(#paint0_linear_159_744)" d="M94.6743 34.0023H153.856L92.4196 216.032C91.7882 217.902 90.586 219.528 88.9824 220.679C87.3788 221.831 85.4545 222.45 83.4803 222.451H37.4223C35.9265 222.451 34.4522 222.095 33.1213 221.412C31.7904 220.729 30.6411 219.74 29.7687 218.525C28.8962 217.31 28.3256 215.905 28.104 214.425C27.8824 212.946 28.0162 211.435 28.4943 210.018L85.7327 40.4209C86.3639 38.5497 87.5662 36.9236 89.1703 35.7717C90.7744 34.6198 92.6995 34.0001 94.6743 34V34.0023Z"/><path fill="#0078D4" d="M180.674 156.095H86.8261C85.9536 156.094 85.101 156.356 84.3795 156.847C83.6579 157.337 83.1008 158.034 82.7807 158.845C82.4606 159.657 82.3923 160.546 82.5848 161.397C82.7773 162.248 83.2217 163.022 83.86 163.616L144.165 219.903C145.92 221.54 148.232 222.451 150.633 222.451H203.774L180.674 156.095Z"/><path fill="url(#paint1_linear_159_744)" d="M94.6745 34.0023C92.6781 33.9946 90.7315 34.6255 89.1192 35.8028C87.5068 36.98 86.3131 38.642 85.7125 40.5459L28.5649 209.863C28.0546 211.286 27.8944 212.81 28.0979 214.308C28.3013 215.805 28.8624 217.232 29.7337 218.466C30.6051 219.701 31.7609 220.708 33.1036 221.401C34.4463 222.095 35.9362 222.455 37.4474 222.451H84.6942C86.4539 222.136 88.0986 221.36 89.4603 220.202C90.822 219.044 91.8519 217.546 92.4448 215.859L103.841 182.273L144.549 220.241C146.255 221.652 148.395 222.433 150.608 222.451H203.551L180.331 156.096L112.642 156.112L154.07 34.0023H94.6745Z"/><path fill="url(#paint2_linear_159_744)" d="M170.264 40.4118C169.634 38.5435 168.434 36.9201 166.832 35.7702C165.23 34.6204 163.308 34.002 161.336 34.0022H95.3792C97.3508 34.0023 99.2727 34.6208 100.874 35.7707C102.476 36.9205 103.677 38.5437 104.307 40.4118L161.548 210.016C162.026 211.433 162.16 212.944 161.939 214.424C161.718 215.904 161.147 217.309 160.275 218.525C159.402 219.74 158.253 220.73 156.922 221.413C155.591 222.096 154.116 222.453 152.62 222.453H218.579C220.075 222.452 221.55 222.096 222.88 221.413C224.211 220.729 225.36 219.739 226.233 218.524C227.105 217.308 227.675 215.903 227.896 214.423C228.118 212.944 227.984 211.433 227.505 210.016L170.264 40.4118Z"/><defs><linearGradient id="paint0_linear_159_744" x1="116.244" x2="54.783" y1="47.967" y2="229.54" gradientUnits="userSpaceOnUse"><stop stop-color="#114A8B"/><stop offset="1" stop-color="#0669BC"/></linearGradient><linearGradient id="paint1_linear_159_744" x1="135.444" x2="121.227" y1="132.585" y2="137.392" gradientUnits="userSpaceOnUse"><stop stop-opacity=".3"/><stop offset=".071" stop-opacity=".2"/><stop offset=".321" stop-opacity=".1"/><stop offset=".623" stop-opacity=".05"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient id="paint2_linear_159_744" x1="127.625" x2="195.091" y1="42.671" y2="222.414" gradientUnits="userSpaceOnUse"><stop stop-color="#3CCBF4"/><stop offset="1" stop-color="#2892DF"/></linearGradient></defs></svg>
 
----
-### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/><g clip-path="url(#clip0_7_147)"><path fill="#fff" fill-rule="evenodd" d="M203.801 178.21C194.011 177.938 186.416 178.941 180.051 181.619C178.218 182.355 175.277 182.355 175.035 184.662C176.015 185.63 176.133 187.214 176.992 188.556C178.459 190.991 181.033 194.271 183.357 195.973L191.191 201.571C195.965 204.488 201.351 206.193 206.002 209.113C208.696 210.817 211.388 213.007 214.082 214.834C215.454 215.807 216.285 217.392 218 217.997V217.629C217.144 216.538 216.897 214.957 216.044 213.735L212.367 210.209C208.82 205.465 204.41 201.325 199.636 197.922C195.718 195.245 187.152 191.596 185.56 187.097L185.319 186.824C188.008 186.552 191.191 185.605 193.764 184.875C197.929 183.784 201.721 184.024 206.002 182.93L211.882 181.226V180.135C209.678 177.946 208.087 175.025 205.763 172.959C199.521 167.606 192.661 162.373 185.56 157.994C181.766 155.562 176.868 153.977 172.829 151.913C171.356 151.182 168.911 150.817 168.055 149.601C165.846 146.929 164.625 143.397 163.034 140.232L152.997 119.064C150.794 114.319 149.444 109.574 146.755 105.195C134.144 84.5124 120.431 71.9828 99.375 59.6932C94.8477 57.1382 89.4616 56.0393 83.7353 54.7032L74.5546 54.2124C72.5928 53.3616 70.6364 51.0493 68.9216 49.9531C61.9441 45.5739 43.9475 36.0847 38.8029 48.5897C35.4966 56.4974 43.7006 64.2824 46.4855 68.299C48.5708 71.0966 51.2597 74.2597 52.7332 77.4228C53.5563 79.4897 53.8307 81.682 54.6895 83.8717C56.6458 89.2243 58.4842 95.1878 61.0551 100.178C62.427 102.733 63.8675 105.413 65.5824 107.723C66.5619 109.086 68.2768 109.67 68.6417 111.859C66.9268 114.294 66.8089 117.94 65.8293 120.986C61.42 134.734 63.1349 151.766 69.377 161.888C71.3389 164.928 75.9622 171.622 82.2345 169.065C87.744 166.875 86.5148 159.941 88.1062 153.857C88.4766 152.399 88.2297 151.425 88.9623 150.449V150.722L93.9834 160.819C97.7781 166.78 104.391 172.986 109.897 177.125C112.833 179.315 115.16 183.089 118.831 184.425V184.057H118.59C117.854 182.966 116.751 182.475 115.772 181.624C113.569 179.435 111.121 176.757 109.406 174.325C104.267 167.513 99.7399 159.968 95.6983 152.183C93.7365 148.412 92.0216 144.275 90.4357 140.504C89.6949 139.043 89.6949 136.85 88.4739 136.125C86.6355 138.797 83.9466 141.115 82.5939 144.398C80.2672 149.628 80.0257 156.077 79.1697 162.769C78.6758 162.891 78.8953 162.769 78.6758 163.041C74.7631 162.071 73.4132 158.051 71.9453 154.648C68.274 146.01 67.6594 132.141 70.8422 122.164C71.6983 119.609 75.375 111.579 73.9071 109.146C73.1662 106.834 70.7242 105.498 69.3743 103.671C67.7829 101.359 66.0735 98.4409 64.9705 95.8859C62.0346 89.0689 60.5667 81.5293 57.3812 74.7151C55.9077 71.552 53.3396 68.2662 51.257 65.3486C48.9303 62.0628 46.3648 59.7505 44.5265 55.8593C43.9146 54.4959 43.0585 52.3309 44.0381 50.8693C44.2795 49.8959 44.7734 49.5059 45.7475 49.2878C47.3389 47.9244 51.8716 49.6532 53.463 50.3785C57.9903 52.2054 61.7849 53.907 65.5796 56.4592C67.2945 57.6754 69.1329 59.9877 71.3361 60.5985H73.9098C77.8279 61.4493 82.2317 60.8712 85.9002 61.9619C92.3893 64.0343 98.2637 67.0719 103.532 70.3604C119.567 80.4577 132.792 94.8143 141.725 111.971C143.193 114.769 143.805 117.324 145.155 120.244C147.729 126.208 150.912 132.289 153.477 138.132C156.051 143.85 158.498 149.694 162.17 154.438C164.008 156.993 171.35 158.329 174.654 159.668C177.104 160.759 180.896 161.741 183.105 163.077C187.264 165.632 191.427 168.552 195.342 171.35C197.298 172.806 203.423 175.849 203.787 178.276L203.801 178.21ZM78.9584 72.4873C77.267 72.4724 75.5809 72.6769 73.9427 73.0954V73.3681H74.1842C75.1637 75.315 76.8786 76.6538 78.1023 78.3581L80.9202 84.1989L81.1616 83.9262C82.8765 82.71 83.7353 80.7631 83.7353 77.8454C83 76.9947 82.8793 76.1412 82.2674 75.2904C81.5321 74.0743 79.9407 73.4635 78.9584 72.4928V72.4873Z" clip-rule="evenodd"/></g><defs><clipPath id="clip0_7_147"><rect width="180" height="180" fill="#fff" transform="translate(38 38)"/></clipPath></defs></svg>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
-
----
-
-### 📕 My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
-<!-- BLOG-POST-LIST:END -->
----
-
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
-
-Last Edited on: 26/11/2020
+Última edición: 13-05-2024
