@@ -1,7 +1,6 @@
 # Hola! Soy Sofia Toro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/][https://www.linkedin.com/in/so
-fia-toro-724155208/](https://www.linkedin.com/in/sofia-toro-724155208/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/sofia-toro-724155208/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sofiaaaatoro_?igsh=MWcyc3A3c3dtaGl5ZA==" target="blank"><img align="center"
