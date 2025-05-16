@@ -17,7 +17,7 @@ fia-toro-724155208/" target="blank"><img align="center"
 - 💼En busqueda de Oportunidad de Empleo!
 - 📫 Contacto: torokarensofia.21@gmail.com
 
-🛠️ My Favorite Tools
+🛠️ Mis Herramientas favoritas
 <p align="center"> 
       
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
