@@ -42,7 +42,4 @@
   <img src="lenguajes-mas-usados.png" alt="Lenguajes más usados" width="400px">
 </p>
 
-<p align= "center">
-Última edición: 13-05-2024
-</p>
 
